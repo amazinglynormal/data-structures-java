@@ -26,7 +26,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'data.structures.java.App'
+    mainClass = 'datastructures.App'
 }
 
 tasks.named('test') {
