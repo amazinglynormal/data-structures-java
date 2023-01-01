@@ -3,3 +3,4 @@ Data Structures implemented in java
 
 * [Linked Lists](./src/main/java/datastructures/linkedlists)
 * [Heaps](./src/main/java/datastructures/heaps)
+* [Stacks](./src/main/java/datastructures/stacks)
