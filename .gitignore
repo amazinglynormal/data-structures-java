@@ -30,3 +30,4 @@ build
 
 .idea/workspace.xml
 .idea/gradle.xml
+.idea/uiDesigner.xml
